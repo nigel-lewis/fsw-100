@@ -1,0 +1,19 @@
+h1 {
+    color: darkgreen;
+}
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.pg {
+    font-size: 25px;
+}
+.a:hover {
+    text-decoration: none;
+}
+.you-might {
+    text-transform: uppercase;
+}
+.post-container {
+    float: left;
+}
